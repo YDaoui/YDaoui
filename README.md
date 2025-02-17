@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Yassine Daoui - Data Scientist / Développeur
 
 <div display="flex">
@@ -62,6 +60,7 @@
 
 ---
 
+
 ### 📫 **Contact**
 
 <div display="flex">
@@ -71,7 +70,7 @@
   <a href="https://github.com/YDaoui">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/yassine-daoui/">
+  <a href="https://www.linkedin.com/in/yassine-daoui-56a7ab1a0">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
