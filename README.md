@@ -13,13 +13,13 @@
 
 #### **Développeur Managérial - Fujitsu**
 - **Durée :** Mai 2021 - Décembre 2021 (8 mois)
-- **Lieu :** Ville de Paris, Île-de-France, France
+- **Lieu :** Hybride 
 - **Compétences :** AWS, MySQL, VBA, Power BI, Python, RShiny, Docker
 - **Description :** Gestion des stations de carburant Total par Fujitsu Simens, automatisation des fichiers via VBA et mise en place de dashboards Power BI pour le reporting dynamique.
 
 #### **Concepteur Reporting - Glovo**
 - **Durée :** Janvier 2021 - Avril 2021 (4 mois)
-- **Lieu :** Ville de Paris, Île-de-France, France
+- **Lieu :** Hybride
 - **Compétences :** SQL Server, Power BI, VBA, Python
 - **Description :** Automatisation de l'importation des fichiers via VBA, stockage dans SQL et présentation des résultats sous forme de tableaux de bord dynamiques avec Power BI.
 
