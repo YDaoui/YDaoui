@@ -25,7 +25,7 @@
 
 #### **Statisticien - ADM VALUE**
 - **Durée :** Novembre 2016 - Mars 2019 (2 ans 5 mois)
-- **Lieu :** Hybride
+- **Lieu :** Maroc
 - **Compétences :** Merise, MySQL, VBA, Power BI, RShiny
 - **Description :** Développement d'outils de planification et mise en place d'outils pour les tâches statistiques et de reporting avec Excel et Power BI après migration.
 
