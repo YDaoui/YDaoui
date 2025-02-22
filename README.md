@@ -1,74 +1,18 @@
-### Yassine Daoui - Data Scientist / Développeur
+# 💫 About Me:
+### Yassine Daoui - Data Scientist / Développeur<br><br><br>---<br><br>### 🔭 **Expérience Professionnelle**<br><br>#### **Data Miner - Bouygues Telecom**<br>- **Durée :** Avril 2022 - Juillet 2024 (2 ans 4 mois)<br>- **Lieu :** Hybride<br>- **Compétences :** VBA, SQL Server, R Shiny, C#, Azure, AWS, GCP, Power BI<br>- **Description :** Analyse des données pour le compte de Bouygues Telecom, automatisation des processus et développement de solutions d'analyse de données avancées.<br><br>#### **Développeur Managérial - Fujitsu**<br>- **Durée :** Mai 2021 - Décembre 2021 (8 mois)<br>- **Lieu :** Hybride <br>- **Compétences :** AWS, MySQL, VBA, Power BI, Python, RShiny, Docker<br>- **Description :** Gestion des stations de carburant Total par Fujitsu Simens, automatisation des fichiers via VBA et mise en place de dashboards Power BI pour le reporting dynamique.<br><br>#### **Concepteur Reporting - Glovo**<br>- **Durée :** Janvier 2021 - Avril 2021 (4 mois)<br>- **Lieu :** Hybride<br>- **Compétences :** SQL Server, Power BI, VBA, Python<br>- **Description :** Automatisation de l'importation des fichiers via VBA, stockage dans SQL et présentation des résultats sous forme de tableaux de bord dynamiques avec Power BI.<br><br>#### **Statisticien - ADM VALUE**<br>- **Durée :** Novembre 2016 - Mars 2019 (2 ans 5 mois)<br>- **Lieu :** Maroc<br>- **Compétences :** Merise, MySQL, VBA, Power BI, RShiny<br>- **Description :** Développement d'outils de planification et mise en place d'outils pour les tâches statistiques et de reporting avec Excel et Power BI après migration.<br><br>#### **Analyste de Données - Accor**<br>- **Durée :** Mai 2014 - Juin 2016 (2 ans 2 mois)<br>- **Lieu :** Maroc<br>- **Compétences :** Merise, Excel, VBA, MySQL, Power BI<br>- **Description :** Centralisation et automatisation des données, avec une présentation via des rapports dynamiques et des tableaux de bord interactifs dans Power BI.<br><br>---<br><br>### 🌱 **Compétences Techniques**<br><br><div display="flex"><br>  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br>  <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br>  <img src="https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/><br>  <img src="https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/><br>  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br>  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/><br>  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>  <img src="https://img.shields.io/badge/vba-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA"/><br></div><br><br>---<br><br><br>### 📫 **Contact**<br><br><div display="flex"><br>  <a href="mailto:daoui00yassine@gmail.com"><br>    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>  </a><br>  <a href="https://github.com/YDaoui"><br>    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>  </a><br>  <a href="https://www.linkedin.com/in/yassine-daoui-56a7ab1a0"><br>    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>  </a><br></div><br><br>---<br><br>### ⚡ **Fun Fact**<br><br>Je suis passionné par l'analyse de données et j'adore résoudre des problèmes complexes avec des solutions innovantes. 🚀<br>
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ yassine-daoui-56a7ab1a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoui00yassine@gmail.com) 
 
-### 🔭 **Expérience Professionnelle**
-
-#### **Data Miner - Bouygues Telecom**
-- **Durée :** Avril 2022 - Juillet 2024 (2 ans 4 mois)
-- **Lieu :** Hybride
-- **Compétences :** VBA, SQL Server, R Shiny, C#, Azure, AWS, GCP, Power BI
-- **Description :** Analyse des données pour le compte de Bouygues Telecom, automatisation des processus et développement de solutions d'analyse de données avancées.
-
-#### **Développeur Managérial - Fujitsu**
-- **Durée :** Mai 2021 - Décembre 2021 (8 mois)
-- **Lieu :** Hybride 
-- **Compétences :** AWS, MySQL, VBA, Power BI, Python, RShiny, Docker
-- **Description :** Gestion des stations de carburant Total par Fujitsu Simens, automatisation des fichiers via VBA et mise en place de dashboards Power BI pour le reporting dynamique.
-
-#### **Concepteur Reporting - Glovo**
-- **Durée :** Janvier 2021 - Avril 2021 (4 mois)
-- **Lieu :** Hybride
-- **Compétences :** SQL Server, Power BI, VBA, Python
-- **Description :** Automatisation de l'importation des fichiers via VBA, stockage dans SQL et présentation des résultats sous forme de tableaux de bord dynamiques avec Power BI.
-
-#### **Statisticien - ADM VALUE**
-- **Durée :** Novembre 2016 - Mars 2019 (2 ans 5 mois)
-- **Lieu :** Maroc
-- **Compétences :** Merise, MySQL, VBA, Power BI, RShiny
-- **Description :** Développement d'outils de planification et mise en place d'outils pour les tâches statistiques et de reporting avec Excel et Power BI après migration.
-
-#### **Analyste de Données - Accor**
-- **Durée :** Mai 2014 - Juin 2016 (2 ans 2 mois)
-- **Lieu :** Maroc
-- **Compétences :** Merise, Excel, VBA, MySQL, Power BI
-- **Description :** Centralisation et automatisation des données, avec une présentation via des rapports dynamiques et des tableaux de bord interactifs dans Power BI.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YDaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YDaoui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YDaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YDaoui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌱 **Compétences Techniques**
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/vba-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA"/>
-</div>
-
----
-
-
-### 📫 **Contact**
-
-<div display="flex">
-  <a href="mailto:daoui00yassine@gmail.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/YDaoui">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yassine-daoui-56a7ab1a0">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### ⚡ **Fun Fact**
-
-Je suis passionné par l'analyse de données et j'adore résoudre des problèmes complexes avec des solutions innovantes. 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
