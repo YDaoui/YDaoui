@@ -22,7 +22,7 @@
 #### **Concepteur Reporting - Glovo**  
 - **Durée :** Janvier 2021 - Avril 2021 (4 mois)  
 - **Lieu :** Hybride  
-- **Compétences :** SQL Server, Power BI, VBA, Python  
+- **Compétences :** SQL Server, Power BI, Webinar, VBA, Python  
 - **Description :** Automatisation de l'importation des fichiers via VBA, stockage dans SQL et présentation des résultats sous forme de tableaux de bord dynamiques avec Power BI.  
 
 #### **Statisticien - ADM VALUE**  
