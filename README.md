@@ -1,7 +1,11 @@
 ## 💫 **About Me:**
 # **YASSINE DAOUI**  
 ## **Data Scientist**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-daoui-56a7ab1a0) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoui00yassine@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-daoui-56a7ab1a0)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoui00yassine@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mon_Site_Web-24292E?logo=githubpages&logoColor=white)](https://ydaoui.github.io/MySiteWeb)
+
 <br>  
 ---  
 
